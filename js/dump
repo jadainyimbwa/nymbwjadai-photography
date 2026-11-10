@@ -1,0 +1,14 @@
+   {
+      num: "05", title: "Momento studio", page: "series5.html",
+      images: [
+        "images/Momento-studio/File1.jpg", "images/Momento-studio/File6.jpg", "images/Momento-studio/File3.jpg", "images/Momento-studio/File7.jpg"
+      ]
+    }
+    ,
+    {
+      num: "06", title: "Who don't hear must feel", page: "series-06.html",
+      images: [
+        "images/who dont hear must feel/DSC03028 1-va1 3 copy.jpg", "images/who dont hear must feel/DSC03081-1 2.jpg", "images/who dont hear must feel/DSC03076 1-v1 2.jpg"
+       
+      ]
+    }
